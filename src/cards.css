@@ -75,10 +75,10 @@ html {
       flex-basis: auto;
     }
 
-    @media  (max-width: 320px) {
+    @media  (max-width: 730px) {
       .cardGroup {
         /* display */
-        display: flex;
+        display: block;
         border: 1px solid #ffd3d3;
         border-radius: 4px;
         overflow: hidden;
